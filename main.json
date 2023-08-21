@@ -1,4 +1,4 @@
-const inflation =  [
+[
     {
         "year": 1635,
         "cpi": "0",
