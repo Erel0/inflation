@@ -1,5 +1,5 @@
 {
-  bigmac : [
+  "bigmac" : [
     {
         "date": "2000-04-01",
         "dollar_price": 2.24
@@ -157,7 +157,7 @@
         "dollar_price": 5.58
     }
 ],
-  brent : [
+  "brent" : [
     {
         "period": "1987-12-25",
         "productName": "UK Brent Crude Oil",
@@ -387,7 +387,7 @@
         "value": "85.02"
     }
 ],
-gold : [
+"gold" : [
     {
         "Date": "1950-01",
         "Price": 34.73
